@@ -39,7 +39,7 @@ class scrape_xbiquge():
             print(novel + '.txt saved!')
 
     def save_xbiquge(self):
-        for i in range(1, 100):
+        for i in range(1, 1185):
             self.url = 'https://www.xbiquge.bz/top/allvote/%d.html' % i
             self.save_novels()
 
