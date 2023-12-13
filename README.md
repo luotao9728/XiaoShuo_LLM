@@ -9,5 +9,5 @@ Build a XiaoShuo_LLM for interpreting Chinese web fictions from scratch.
 
 > scrape_data.py
 
-预计将爬取47360本小说。
+预计将爬取47360本小说。\
 Provisioned to scrape 47360 Chinese web fictions.
